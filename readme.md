@@ -1,5 +1,5 @@
 ## REPPOR
-Gets all repositories from a organizations list
+Gets all repositories from organizations list
 
 ## Requirements
 
